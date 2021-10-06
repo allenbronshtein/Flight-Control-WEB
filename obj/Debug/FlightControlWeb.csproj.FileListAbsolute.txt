@@ -1,0 +1,9 @@
+C:\Users\b_alo\source\repos\out\appsettings.Development.json
+C:\Users\b_alo\source\repos\out\appsettings.json
+C:\Users\b_alo\source\repos\out\Properties\launchSettings.json
+C:\Users\b_alo\source\repos\out\FlightControlWeb.exe
+C:\Users\b_alo\source\repos\out\FlightControlWeb.deps.json
+C:\Users\b_alo\source\repos\out\FlightControlWeb.runtimeconfig.json
+C:\Users\b_alo\source\repos\out\FlightControlWeb.runtimeconfig.dev.json
+C:\Users\b_alo\source\repos\out\FlightControlWeb.dll
+C:\Users\b_alo\source\repos\out\FlightControlWeb.pdb
