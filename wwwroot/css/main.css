@@ -1,0 +1,37 @@
+.grid-container {
+    display              : grid;
+    grid-template-columns: repeat(4, 30%);
+    grid-template-rows   : repeat(3, 200px);
+    grid-template-areas  : "Map Map Map Board""Map Map Map Board""Details Details Details Upload";
+}
+
+.grid-container #fw-map {
+    grid-area       : Map;
+    background-color: red;
+}
+
+.grid-container #dw-board {
+    grid-area       : Board;
+    background-color: orange;
+}
+
+.grid-container #fw-upload {
+    grid-area       : Upload;
+    background-color: gray;
+}
+
+.grid-container #fw-details {
+    grid-area       : Details;
+    background-color: yellow;
+}
+
+.list-group {
+    max-height                : 150px;
+    margin-bottom             : 10px;
+    overflow                  : auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+#fw-upload.drop {
+    border: 2px dashed black;
+}
